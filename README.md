@@ -1,6 +1,7 @@
 ## Medical Insurance Prediction Model
 
 This program attempts to model one's medical insurance with a neural network.
+The dataset used is from: https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
 
 The input parameters include:
 * Age
